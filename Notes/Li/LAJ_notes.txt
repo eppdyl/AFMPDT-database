@@ -1,0 +1,7 @@
+The pressure isn’t always given. When it is first reported in a given run, it is assumed here that all previous measurements are at the same pressure. When it is last reported for a given run it is assumed that all subsequent measurements in that run are at the same pressure. When there is a gap between pressure reportings, a linear interpolation is assumed. When no pressure is given for a run, it is assumed to be 1 torr. On p. 22 of AFAPL-1965-06, they claim that pressures of 10^-5 torr were achieved with lithium, but hard to maintain. These low pressures are never listed in the data tables where thrust data are present.
+
+The thrust error is assumed on page 29 of AFAPL-1965-06 to be 1 gram. On page 40 of AFAPL-1967-01, they say their new thrust stand is more accurate, but not how much. 1 gram is still used as the upper limit here.
+
+On page 54 of AFAPL-1965-06, the magnetic field strength conversion is given as B=(0.5/2000)I.
+
+Data is only recorded here when there was no mixture of propellants

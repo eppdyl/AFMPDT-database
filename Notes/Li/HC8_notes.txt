@@ -1,0 +1,5 @@
+The pressure was reported to drop while firing due to lithium gettering. The lowest pressure is therefore assumed.
+
+The voltage data cannot be correlated to the individual data points, but all the data presented is 43 +- 2 V.
+
+The magnetic field reported is at the anode face, not at the cathode tip.

@@ -1,0 +1,3 @@
+A schematic of the thruster is shown and appears to be to scale, however the scale is not given. The dimensions were determined by assuming the magnetic field countours were also to scale, modeling the solenoid using the Biot-Savart law, and then changing the scale until an equivalent field strength and shape was found. This was done with the cathode recessed in the solenoid per the picture (code is in this same folder). Using this procedure, the inner solenoid radius was found to be 36 mm.
+
+Since 7 mTorr was listed as attainable when they check for background pressure effects, and since that check was at the highest tested mass flow rate, that value is assumed as the background pressure when not listed.

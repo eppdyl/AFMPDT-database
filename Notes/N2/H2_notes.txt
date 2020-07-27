@@ -1,0 +1,15 @@
+The solenoid is not shown for the H2-1, but based on the comments on 6-40, I assumed it was the same as H2-2A. Also, they say Fig. 6-1 configuration was unstable, so I assumed it was Fig. 6-2 that was used for the collected data.
+
+The H2-2F is really more like a cylinder followed by a larger cylinder. The cylcone configuration fit most closely.
+
+The cathode radius for the H2-2E and F is really subjective since it’s a wedge sticking through an insulator around which the gas is injected. I picked the size of the opening in the insulator.
+
+For the H2-4 series, only A has a booster solenoid coil. It is unclear how they split the current through the coils and how that changes the strength/shape of the B-field. H2-3B has what looks like the same solenoid as H2-4 series (no booster), but with a different axial position.
+
+The H2-2 series does not list the conversion for magnet current to magnetic field strength, but assuming the same size current carrying cross section as the H3-3a, we can assume there are 60% as many turns (it’s shorter axially and the same dR). To get the magnetic field I multiplied by 0.6 then.
+
+
+The Ar, N2, and H2 have no thruster listed except H2-4 on 6-54, but assumed to be H2-4F. They’re all very similar.
+
+The Sodium thruster is unnamed, but they say it’s the same as a lithium thruster used in a Patrick and Powers report I can’t find. However, it looks nearly identical to the LAJ-AF-6D in AFAPL-1965-06 by the same group a couple years later. I still took the dimensions from EOS-5470 rather than AFAPL-1965-06. I used the same conversion for solenoid current to Tesla given in AFAPL-1965 since it wasn’t given in EOS-5470.
+

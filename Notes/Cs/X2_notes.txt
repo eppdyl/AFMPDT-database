@@ -1,0 +1,3 @@
+The pressure is given on page 2 of NASA-NAS-3-5900 as 100 mTorr for gaseous propellants and 0.1 mTorr for alkali metal propellants.
+
+Thrust error is given on page 19 of NASA-NAS-3-5900 as 88 mN over 883 mN and correspondingly better for lower thrust measurements. It is assumed then to be 10% of measurement for lower thrust values.

@@ -1,0 +1,7 @@
+The solenoid radius is reported only as the “magnetic bore radius” (153 and 204 mm) in AIAA-92-3462. The same dimenssion, 153 mm, is listed as the inner DIAMETER of the solenoid in JPP-1993-9-5. And 153 and 203 mm are both listed in JPP-1995-11-2 as diameters. It is assumed that he meant diameter in the first paper. The outer radius is not listed, but based on the number of turns listed in JPP-1993-9-5, the diameter of tubing used, and the length of the solenoid, 39 mm thickness is used since this corresponds to three tubing thicknesses.
+
+Background pressure in AIAA-92-3462 was 5x10-4 Torr.
+
+Be skeptical of the voltage data. I took it from the same document, but from the plots. They may not be for the corresponding point for which thrust data was taken, but instead for similar operating parameters with the same anode and mass flow rate. Some voltage values are interpolated and some are calculated from efficiency plots (where nothing existed in the voltage plots for a given set of parameters).
+
+The geometry of LeRC100kW-90A is a cylinder that then expands at the end conically. The anode length here is the full length from backplate to exit plane. Note that “A, B, and C” in AIAA-90-2669 correspond to different geometries than do “A, B, and C” in subsequent papers. “C” is similar to the later geometry “A”.

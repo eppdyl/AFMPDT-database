@@ -1,0 +1,1 @@
+Fig.3 of NASA-NAS-3-5900 shows the X2C geometry. It’s correctly labeled in NASA-Bennett-1967-05, and shown with solenoid in AIAA-66-117. There are two solenoids, I chose the one closest to the exit plane.

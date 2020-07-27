@@ -1,0 +1,13 @@
+All MAI sources refer to the reports from the NASA contract.
+
+I’m not at all confident on the error. I don’t see it anywhere except Dan Lev’s thesis. They say in the reports that it is small.
+
+The MAI 150kW data in IEPC-97-117 is also in MAI199704 and MAI199607. They give slightly different numbers sometimes. 
+
+For 150kW, B_ae/B_c=288/900 (about the same as the 30kW LiLFA)
+
+For 200kW Not all dimensions are listed. Assumed same magnet and anode as 150kW since the outer anode radius is the same.
+
+The 30kW background pressure data is in MAI199812 (annex), which shows a max of 0.56 Pa. Max in MAI199704 is 0.76 Pa (they do get two orders of magnitude lower, but it is unclear which thrust data correspond to low pressures if any). Max is 0.48 Pa in MAI199607. No pressure data is listed in MAI199604 or IEPC95-105, so it is assumed to be uniform for each respective thruster.
+ 
+For the magnet radius for the 30kW thruster, an r_B value of 67mm gives a solution to the Biot Savart equation that agrees with my data.

@@ -1,0 +1,10 @@
+The magnetic field configurations determine the model type and are listed in AIAA-1987-1001.
+
+The geometry of the magnetic field changes substantially for each listed magnetic field strength in AIAA-1987-1001.
+
+The thrust error is not listed in JPP-1995-11-2 or AIAA-1987-1001 or IEPC-1991-073, but is listed as 4% for the same thruster in JPP-1997-13-5.
+
+The magnetic field strength is measured at the throat in JPP-1995-11-2 (where r=ra0), which is in front of the cathode.
+
+
+In AIAA-1987-1001, it is not clear whether or not the CA.L cathode configuration also uses the larger solenoid radius, but based on the conclusions in the paper, it is assumed to have the CO.L solenoid configuration.

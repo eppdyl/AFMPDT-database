@@ -1,0 +1,7 @@
+PRESSURE:
+On p.17 of McDonnell-1969-07, 10 mTorr is listed as the typical background pressure at high mass flow rate. This pressure is assume unless the pressure is given for a measurement.
+
+ELECTRODE GEOMETRY:
+There are 4 different throat sizes for the anodes. I’ve marked them as X7-s, m, l, xl in order of increasing size. Fig.2.6 appears to show X7-m. On p. 19 of McDonnell-1969-07, they say the throat was remachined to get the different respective sizes, so Ra is constant, but this changes La and Lc_a for each (found geometrically).
+
+X7-m was also used on the lifetime test.

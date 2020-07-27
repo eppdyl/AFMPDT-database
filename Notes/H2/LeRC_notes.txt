@@ -1,0 +1,1 @@
+The outer solenoid radius is not listed, but based on the number of turns listed, the diameter of tubing used, and the length of the solenoid, 39 mm thickness is used since this corresponds to three tubing thicknesses.

@@ -1,0 +1,3 @@
+Ichihara was kind enough to provide his data for the coaxial thruster in tabular form (included in references). He did not list the pressure up to his maximum mass flow rate, so I used the maximum listed in the paper when beyond the bounds of the table.
+
+Beware that the source of mass injection is sometimes through the cathode or anode or both, so that may affect performance. See tabulated data in correspondence for comparison to model predictions. Also, this is the only thruster with a cone followed by a cylinder. The length of the cone is given in column 21.

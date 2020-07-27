@@ -1,0 +1,15 @@
+The background pressure is listed as 100 mTorr on p.1.
+
+On p.36 of NASA-Bennett-1967-05, it says the X7C2 and X7C3 were unstable, with Ra0 15.9 and 13.3 mm respectively. These are the only thrusters with those Ra0 dimensions in the X7 file if you wish to filter them out.
+
+ELECTRODE GEOMETRY:
+Besides Ra0, the rest of the geometry is quite vague. They say on p.1 the outer diameters are 2, 3, and 4 inches, but not which thrusters these correspond to.
+
+They say the X7CR is similar to the X7C1 on p.63, which says the outer diameter of the X7CR is 4”. We have two figures to look at, which I assume to be to scale because there is nothing else to go on. These are Fig.4 (p.8) of the X7C and Fig.20 (p.63) of the X7CR. I don’t know which thruster model Fig. 4 pertains to, but if we assume the X7CR has the same Ra0 as X7C1, then 4” is the full height of the schematic. I count the exit plane radius by the internal radius (not external) and since this is a rather thick anode, that means Ra for the X7CR and X7C1 is closer to 1 inch. From Fig.20 we can also get the cathode radius and length (from the beginning of the flare of the anode back to the sharp tip of the cathode) and the anode length.
+
+Now, if we assume the cathode sizes are all the same (since they never mention using a different size cathode), we see that Ra0 for Fig.4 corresponds to the X7C1, so now we know which model that schematic is of.
+
+Now, we make the biggest assumption. They are using thick anodes and every anode they show has a 45 degree anode flare. I’m saying La is the same for all of them, Lc is the same, and Ra-Ra0 is the same. This makes some sense if they want to resuse their solenoids and retaining ring, etc.
+
+MAGNET GEOMETRY:
+Again, this is not mentioned. Fig.5 on p.6 shows a different thruster, but with a similar geometry with a schematic of the solenoid used. This figure actually lists a dimension. We can figure out the corresponding magnet dimensions from that figure. The found dimensions are just over 4 inches, corresponding to a similar fit around the X7C. It is assumed to be the same solenoid used.
